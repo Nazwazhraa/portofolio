@@ -1,5 +1,5 @@
 <template>
-<section class="bg-center bg-no-repeat bg-[url('./src/assets/pict/aku.PNG')] bg-gray-700 bg-blend-multiply">
+<section class="bg-center bg-no-repeat bg-[url('../assets/pict/aku.PNG')] bg-gray-700 bg-blend-multiply">
     <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Hi.</h1>
         <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">It's me, Nazwa Az Zahra</p>
@@ -8,10 +8,10 @@
     </div>
 </section>
 <center>
-    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16" style="background-image: url('src/assets/pict/putih1.jpg');">
+    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16" style="background-image: url('../assets/pict/putih1.jpg');">
     <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-10"></div>
     <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-    <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="src/assets/pict/me.jpg" alt="">
+    <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="../assets/pict/me.jpg" alt="">
     <div class="flex flex-col justify-between p-4 leading-normal">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Nazwa Az Zahra</h5>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -197,7 +197,7 @@ Tetapi hal ini membuat saya tidak percaya diri, karena terlalu sering membaca da
     <p class="text-4xl font-extrabold text-gray-900 dark:text-white"><center>Pengalaman Organisasi</center></p>
     
 </div>
-    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16" style="background-image: url('src/assets/pict/putih1.jpg');">
+    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16" style="background-image: url('../assets/pict/putih1.jpg');">
 
     <div class="grid md:grid-cols-3 gap-4">
     
@@ -206,7 +206,7 @@ Tetapi hal ini membuat saya tidak percaya diri, karena terlalu sering membaca da
     <center>
     <a href="#">
         
-        <img class="rounded-t-lg " src="src/assets/pict/ipm.jpg"/>
+        <img class="rounded-t-lg " src="../assets/pict/ipm.jpg"/>
 
     </a></center>
     <div class="p-5">
@@ -222,7 +222,7 @@ Tetapi hal ini membuat saya tidak percaya diri, karena terlalu sering membaca da
     <center>
     <a href="#">
         
-        <img class="rounded-t-lg " src="src/assets/pict/karta.jpg"  />
+        <img class="rounded-t-lg " src="../assets/pict/karta.jpg"  />
 
     </a></center>
     <div class="p-5">
@@ -238,7 +238,7 @@ Tetapi hal ini membuat saya tidak percaya diri, karena terlalu sering membaca da
     <center>
     <a href="#">
         
-        <img class="rounded-t-lg " src="src/assets/pict/tpk.jpg"  />
+        <img class="rounded-t-lg " src="../assets/pict/tpk.jpg"  />
 
     </a></center>
     <div class="p-5">
